@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Landmarks
+//  TapCounter
 //
 //  Created by Karthik Thirugnanasampantham on 4/30/25.
 //
